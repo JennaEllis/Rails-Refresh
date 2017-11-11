@@ -1,24 +1,3 @@
-# README
+# Rails Testing Repo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project follows informtion given in the official Ruby on Rails tutorial. It was completed after the contributor had done significant rails work, but needed a refresher before starting a new personal project. 
