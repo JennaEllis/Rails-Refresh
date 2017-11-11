@@ -7,4 +7,9 @@ Rails.application.routes.draw do
 
 	root 'application#hello'
 
+	# Static pages routes
+	get 'static_pages/home'
+	get 'static_pages/help'
+
+
 end
